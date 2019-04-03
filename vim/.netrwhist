@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/leon/Programs/C++/Tree_List'
+let g:netrw_dirhist_2='/home/leon'
+let g:netrw_dirhist_3='/home/leon/.vim/bundle/vim-colors-solarized'
+let g:netrw_dirhist_4='/home/leon/.vim/bundle'
+let g:netrw_dirhist_5='/home/leon/.vim'
+let g:netrw_dirhist_6='/home/leon'
